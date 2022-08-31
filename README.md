@@ -51,4 +51,5 @@ platformIO IDE库：
 
 
 ## 结果
-![img](https://github.com/BlueBoxChamil/LVGL-clock/blob/master/image/gif-2.gif)
+<!-- ![img](https://github.com/BlueBoxChamil/LVGL-clock/blob/master/image/gif-2.gif) -->
+![img](https://github.com/BlueBoxChamil/LVGL-gravity-line/blob/master/01.gif)
